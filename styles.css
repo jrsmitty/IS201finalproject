@@ -82,7 +82,7 @@ p.contact {color: black;}
 .subHeading {font-weight: bold;}
 
 a:link {
-	color: #242251; 
+	color: white; 
 	text-decoration: none;
 	font-weight: bold; 
 	text-shadow: 2px 2px 2px #848484; 
@@ -90,7 +90,7 @@ a:link {
 	
 }
 a:hover {text-decoration: underline;}
-a:visited {color: white;}
+a:visited {color: gray;}
 
 .careerInterests {
 	font-weight: normal; 
