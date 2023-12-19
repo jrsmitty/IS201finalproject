@@ -84,8 +84,7 @@ p.contact {color: black;}
 a:link {
 	color: white; 
 	text-decoration: none;
-	font-weight: bold; 
-	text-shadow: 1px 1px 1px rgb(227, 227, 227); 
+	font-weight: bold;  
 	line-height: 2.0;
 	
 }
